@@ -1,0 +1,64 @@
+#header{
+	font-family: "Lobster Two", cursive;
+	font-size:112px;
+	color: #44006B;
+	text-align: center;
+	margin-top: 50px;
+}
+
+#outercontainer{
+	display: table;
+	margin-top: -20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.sociallinks {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.sociallinks li a{
+	width: 50px;
+	height: 50px;
+	display: block;
+	margin: 3px;
+}
+
+.sociallinks li{
+	background-image: url("images/icons.jpg");	
+	background-repeat: no-repeat;
+	float: left;
+	padding: 0;
+	margin: 0;
+}
+
+.sociallinks li a:hover {
+	background-color: white;
+	opacity: 0.4;
+}
+
+.s1 {
+	background-position: -57px -36px;
+}
+
+.s2 {
+	background-position: -124px -103px;
+}
+
+.s3 {
+	background-position: -326px -36px;
+}
+
+.s4 {
+	background-position: -191px -103px;
+}
+
+.s5 {
+	background-position: -124px -170px;
+}
+
+.s6 {
+	background-position: -394px -103px;
+}
