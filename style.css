@@ -27,8 +27,6 @@
 }
 
 .sociallinks li{
-	background-image: url("images/icons.jpg");	
-	background-repeat: no-repeat;
 	float: left;
 	padding: 0;
 	margin: 0;
@@ -39,26 +37,27 @@
 	opacity: 0.4;
 }
 
-.s1 {
-	background-position: -57px -36px;
+.github {
+	background-image: url("images/github.png");
+	background-size: contain;
 }
 
-.s2 {
-	background-position: -124px -103px;
+.linkedin {
+	background-image: url("images/linkedin.png");
+	background-size: contain;
 }
 
-.s3 {
-	background-position: -326px -36px;
+.facebook {
+	background-image: url("images/facebook.png");
+	background-size: contain;
 }
 
-.s4 {
-	background-position: -191px -103px;
+.twitter {
+	background-image: url("images/twitter.png");
+	background-size: contain;
 }
 
-.s5 {
-	background-position: -124px -170px;
-}
-
-.s6 {
-	background-position: -394px -103px;
+.instagram {
+	background-image: url("images/instagram.png");
+	background-size: contain;
 }
