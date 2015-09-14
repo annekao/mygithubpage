@@ -1,4 +1,4 @@
-## [Personal Webpage](annekao.me)
+## [Personal Webpage](http://annekao.me)
 
 Buttons: http://tympanus.net/
 
