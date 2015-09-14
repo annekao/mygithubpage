@@ -1,0 +1,109 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:200,300,400,500,600);
+@font-face {
+	font-weight: normal;
+	font-style: normal;
+	font-family: 'codropsicons';
+	src: url("../fonts/codropsicons/codropsicons.eot");
+	src: url("../fonts/codropsicons/codropsicons.eot?#iefix") format("embedded-opentype"), url("../fonts/codropsicons/codropsicons.woff") format("woff"), url("../fonts/codropsicons/codropsicons.ttf") format("truetype"), url("../fonts/codropsicons/codropsicons.svg#codropsicons") format("svg");
+}
+*,
+*:after,
+*:before {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+	background: #dfd8df;
+	color: #37474f;
+	font-weight: 400;
+	font-size: 1em;
+	font-family: 'Raleway', Arial, sans-serif; 
+}
+
+#header{
+	font-family: "Lobster Two", cursive;
+	font-size:112px;
+	color: #44006B;
+	text-align: center;
+	margin-top: 50px;
+}
+
+#outercontainer{
+	display: table;
+	margin-top: -20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#contact{
+	display: table;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+a.button{
+	text-decoration: none;
+	color: black;
+}
+
+a.button:hover{
+	text-decoration: none;
+	color: inherit;
+}
+
+#sociallinks{
+	display: table;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.sociallinks{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.sociallinks li a{
+	width: 50px;
+	height: 50px;
+	display: block;
+	margin: 3px;
+}
+
+.sociallinks li{
+	float: left;
+	padding: 0;
+	margin: 0;
+}
+
+.sociallinks li a:hover {
+	background-color: #dfd8df;
+	opacity: 0.4;
+}
+
+.github {
+	background-image: url("../images/github.png");
+	background-size: contain;
+}
+
+.linkedin {
+	background-image: url("../images/linkedin.png");
+	background-size: contain;
+}
+
+.facebook {
+	background-image: url("../images/facebook.png");
+	background-size: contain;
+}
+
+.twitter {
+	background-image: url("../images/twitter.png");
+	background-size: contain;
+}
+
+.instagram {
+	background-image: url("../images/instagram.png");
+	background-size: contain;
+}

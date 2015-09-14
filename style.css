@@ -38,26 +38,26 @@
 }
 
 .github {
-	background-image: url("images/github.png");
+	background-image: url("../images/github.png");
 	background-size: contain;
 }
 
 .linkedin {
-	background-image: url("images/linkedin.png");
+	background-image: url("../images/linkedin.png");
 	background-size: contain;
 }
 
 .facebook {
-	background-image: url("images/facebook.png");
+	background-image: url("../images/facebook.png");
 	background-size: contain;
 }
 
 .twitter {
-	background-image: url("images/twitter.png");
+	background-image: url("../images/twitter.png");
 	background-size: contain;
 }
 
 .instagram {
-	background-image: url("images/instagram.png");
+	background-image: url("../images/instagram.png");
 	background-size: contain;
 }
